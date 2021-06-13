@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: e03944b515e8da143b19cb404a107b1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1774673881126508861
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_0
+  - first:
+      213: -3695001551823389695
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_1
+  - first:
+      213: -8499809497157768796
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_2
+  - first:
+      213: 8546892452573645604
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_3
+  - first:
+      213: -4961581270538114458
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_4
+  - first:
+      213: -110035129140220794
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_5
+  - first:
+      213: -4982518413502168618
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_6
+  - first:
+      213: 634475105222482189
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_7
+  - first:
+      213: 8946175355749592343
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_8
+  - first:
+      213: 5558328715485607555
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_9
+  - first:
+      213: 7189547427150290464
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_10
+  - first:
+      213: -6302417600417289726
+    second: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 414
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66a4bf1871f57e0800000000000000
+      internalID: -1774673881126508861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 413
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cbc036aa7b8bcc0800000000000000
+      internalID: -3695001551823389695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 414
+        width: 198
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96b67db4c9a0a80800000000000000
+      internalID: -8499809497157768796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 416
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8e19f669ac9670800000000000000
+      internalID: 8546892452573645604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a285d3f1ce42bb0800000000000000
+      internalID: -4961581270538114458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 207
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c68ce02a3197ef0800000000000000
+      internalID: -110035129140220794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 207
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d14c54c6e98adab0800000000000000
+      internalID: -4982518413502168618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 209
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d095d912fbb1ec800800000000000000
+      internalID: 634475105222482189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71deec15613372c70800000000000000
+      internalID: 8946175355749592343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867f577486232d40800000000000000
+      internalID: 5558328715485607555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 198
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02edd1b0b4766c360800000000000000
+      internalID: 7189547427150290464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-free-png-download-zodiac-signs-set-clipart-png-photo-12-zodiac-signs-833x615_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a25f485905988a0800000000000000
+      internalID: -6302417600417289726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
